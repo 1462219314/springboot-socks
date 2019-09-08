@@ -11,6 +11,11 @@ public class SpringbootSwagger2AutoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
+		
+		
+		
+		
 	}
 
 }
