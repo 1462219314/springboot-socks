@@ -13,7 +13,7 @@ public class SpringbootSwagger2AutoApplicationTests {
 	public void contextLoads() {
 		
 		
-		
+		System.out.print("helloworld");
 		
 		
 	}
